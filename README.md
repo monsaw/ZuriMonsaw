@@ -1,4 +1,4 @@
 "# django-mini-blog" 
 
-
-Having issue deploying to Huroku.
+Link to live app:
+https://zuritakehome.herokuapp.com/
